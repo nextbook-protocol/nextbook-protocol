@@ -23,4 +23,4 @@ Welcome to the official repository of the nextbook protocol, an open-source proj
 
 ---
 
-nextbook-protocol is dedicated to redefining digital content management. We are currently in closed alpha.
+nextbook-protocol is dedicated to redefining digital content management. **We are currently in closed alpha.**
