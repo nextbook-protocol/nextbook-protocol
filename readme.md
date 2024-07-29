@@ -8,7 +8,7 @@ The official repository of the nextbook protocol, an open-source project dedicat
 - **🌟 Mission:** To provide creators with a secure, transparent, and efficient platform to manage and protect their intellectual property.
 - **🌍 Vision:** To empower authors, publishers, and content creators to control and monetize their work in a decentralized environment.
 
-## What We Do
+### What We Do
 
 - **🔒 Digital Rights Management:** Efficiently manage and protect digital rights with advanced blockchain technology.
 - **📚 Publication:** Seamlessly publish digital content with integrated royalty and licensing features.
@@ -18,7 +18,7 @@ The official repository of the nextbook protocol, an open-source project dedicat
 
 We are always looking for talented developers, content creators, and blockchain enthusiasts to collaborate on enhancing the protocol.
 
-## Contact Us
+### Contact Us
 
 - **📧 Email:** [contact@nextbook.pub](mailto:contact@nextbook.pub)
 
